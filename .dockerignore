@@ -1,0 +1,11 @@
+.obsidian
+backend/__pycache__
+backend/sqlitestorage/__pycache__
+backend/test.py
+bin
+docs
+lib
+.git
+lapudai.code-workspace
+.gitignore
+log.txt
