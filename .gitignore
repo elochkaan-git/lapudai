@@ -1,6 +1,7 @@
 # created by virtualenv automatically
 __pycache__
-config
+config/token.json
+config/credentials.json
 test.py
 tokenBot.py
 psql_data
