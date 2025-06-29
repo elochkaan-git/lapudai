@@ -2,9 +2,6 @@
 __pycache__
 config
 test.py
-users.db
 tokenBot.py
 psql_data
-lapudai.sql
-log.txt
 instruction.txt
